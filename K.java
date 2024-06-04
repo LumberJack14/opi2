@@ -19,4 +19,8 @@ public class K implements J {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public int af() {
+        return -1;
+    }
 }
