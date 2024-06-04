@@ -27,4 +27,8 @@ public class K implements J {
     public Object rr() {
         return null;
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }
