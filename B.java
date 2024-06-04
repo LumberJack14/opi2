@@ -1,4 +1,4 @@
-public class B implements J {
+public class B extends null implements J {
 
     private long d = 4321;
 
@@ -22,5 +22,33 @@ public class B implements J {
 
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
+    }
+
+    public double ad() {
+        return 9.11;
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public long dd() {
+        return 99999;
     }
 }
