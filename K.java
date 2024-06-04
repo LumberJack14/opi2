@@ -31,4 +31,8 @@ public class K implements J {
     public String kk() {
         return "Yes";
     }
+
+    public double ee() {
+        return 500.100;
+    }
 }

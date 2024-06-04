@@ -23,4 +23,8 @@ public class E {
     public double ad() {
         return 11;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
