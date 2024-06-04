@@ -11,12 +11,4 @@ public class E {
     public void bb() {
         System.out.println(getClass().getName());
     }
-
-    public void ab() {
-        System.out.println("\n");
-    }
-
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
-    }
 }
