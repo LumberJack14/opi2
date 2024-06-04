@@ -24,8 +24,8 @@ public class K extends null implements J {
         return -1;
     }
 
-    public long ac() {
-        return 222;
+    public double ee() {
+        return 500.100;
     }
 
     public Object rr() {
@@ -50,9 +50,23 @@ public class K extends null implements J {
 
     public int hh() {
         return new java.util.Random(10).nextInt(10);
+    public String kk() {
+        return "Yes";
+    }
+
+    public long ac() {
+        return 111;
+    }
+
+    public byte oo() {
+        return 1;
     }
 
     public void bb() {
         System.out.println(42);
+    }
+
+    public double ad() {
+        return 11;
     }
 }

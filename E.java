@@ -28,8 +28,16 @@ public class E extends null {
         return 500.100;
     }
 
+    public double ad() {
+        return 11;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
     public byte oo() {
-        return 1;
+        return 2;
     }
 
     public int[] ii() {
@@ -42,6 +50,14 @@ public class E extends null {
 
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+    
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public float ff() {
+        return 0;
     }
 
     public long ac() {
