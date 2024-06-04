@@ -11,4 +11,8 @@ public class E {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }
