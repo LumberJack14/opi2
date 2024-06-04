@@ -15,4 +15,8 @@ public class E {
     public void ab() {
         System.out.println("\n");
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }

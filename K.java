@@ -23,4 +23,8 @@ public class K implements J {
     public int af() {
         return -1;
     }
+
+    public Object rr() {
+        return null;
+    }
 }
