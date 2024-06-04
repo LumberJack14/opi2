@@ -39,4 +39,8 @@ public class K implements J {
     public int cc() {
         return 13;
     }
+
+    public void ab() {
+        return;
+    }
 }

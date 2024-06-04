@@ -39,4 +39,8 @@ public class B implements J {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public double ad() {
+        return 11;
+    }
 }
