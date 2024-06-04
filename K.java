@@ -1,4 +1,4 @@
-public class K implements J {
+public class K extends null implements J {
 
     private double k = 100.500;
 
@@ -24,6 +24,10 @@ public class K implements J {
         return -1;
     }
 
+    public double ee() {
+        return 500.100;
+    }
+
     public Object rr() {
         return null;
     }
@@ -32,7 +36,19 @@ public class K implements J {
         return "Yes";
     }
 
-    public double ee() {
-        return 500.100;
+    public long ac() {
+        return 111;
+    }
+
+    public byte oo() {
+        return 1;
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public double ad() {
+        return 11;
     }
 }
