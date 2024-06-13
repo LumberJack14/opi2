@@ -4,7 +4,7 @@ public class B extends null implements J {
     private long dsss = 3334321;
 
     private long kskssasd = 3234234;
-    private long kskssasdss = 323423422;
+    private long kskssasdss = 3234234;
 
 
     public double ee() {
