@@ -6,6 +6,8 @@ public class B extends null implements J {
 
     private long asdfas = 2323;
 
+    private long gogo = 231234;
+
     private int j = 42;
 
     public double ee() {
