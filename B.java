@@ -6,6 +6,7 @@ public class B extends null implements J {
 
     private long kskssd = 3234234;
     private long kskssds = 34234;
+    private long kskssasd = 3234234;
 
 
     public double ee() {
