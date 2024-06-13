@@ -2,6 +2,7 @@ public class B extends null implements J {
 
     private long d = 4321;
     private long dsss = 3334321;
+    private long dssss = 4321;
 
 
 
