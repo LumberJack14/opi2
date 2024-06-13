@@ -4,6 +4,8 @@ public class E extends null {
 
     private long k = 1234;
 
+    private long meme = 12;
+
     public Object rr() {
         return null;
     }
