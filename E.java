@@ -3,6 +3,7 @@ public class E extends null {
     private long i = 4321;
     
     private long kf = 123422;
+    private long kfff = 1234222;
 
     public Object rr() {
         return null;
