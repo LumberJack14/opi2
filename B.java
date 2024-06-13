@@ -1,6 +1,7 @@
 public class B extends null implements J {
 
     private long d = 4321;
+    private long dsdfs = 43212323;
 
     private long ksks = 34234;
 
