@@ -1,9 +1,7 @@
 public class E extends null {
 
     private long i = 4321;
-    private long is = 34321;
-
-    private long k = 1234;
+    
     private long kf = 123422;
 
     public Object rr() {
